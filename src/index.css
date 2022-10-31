@@ -1,0 +1,15 @@
+body {
+  background-color: burlywood;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.dark {
+  background-color: #212121;
+  color: white;
+  height: 100vh;
+}
+button {
+  border-radius: 5px;
+  border-color: azure;
+}
